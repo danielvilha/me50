@@ -1,2 +1,3 @@
-# me50
-I'm studying React-native
+# Daniel Freitas Vilha - me50
+
+### React-native study
